@@ -1,5 +1,9 @@
 # flutter_ci
 
+<a href="https://github.com/ssferraz/flutter_ci/actions">
+    <img src="https://github.com/ssferraz/flutter_ci/workflows/CI/badge.svg"/>
+</a>
+
 A new Flutter project.
 
 ## Getting Started
